@@ -1,0 +1,773 @@
+2025-06-14 16:03:08,384 - root - INFO - Processing 2 rows from Nifty_Input.csv
+2025-06-14 16:03:09,908 - root - INFO - Saved historical_data\batch_20250614_230308\NIFTY09SEP202116550CE.csv (40 rows)
+2025-06-14 16:03:11,266 - root - INFO - Saved historical_data\batch_20250614_230308\NIFTY09SEP202116550PE.csv (901 rows)
+2025-06-14 16:03:12,476 - root - INFO - Saved historical_data\batch_20250614_230308\NIFTY09SEP202116600CE.csv (245 rows)
+2025-06-14 16:03:13,822 - root - INFO - Saved historical_data\batch_20250614_230308\NIFTY09SEP202116600PE.csv (1119 rows)
+2025-06-14 16:03:14,859 - root - INFO - Saved historical_data\batch_20250614_230308\NIFTY09SEP202116650CE.csv (85 rows)
+2025-06-14 16:03:16,267 - root - INFO - Saved historical_data\batch_20250614_230308\NIFTY09SEP202116650PE.csv (1025 rows)
+2025-06-14 16:03:17,492 - root - INFO - Saved historical_data\batch_20250614_230308\NIFTY09SEP202116700CE.csv (389 rows)
+2025-06-14 16:03:18,881 - root - INFO - Saved historical_data\batch_20250614_230308\NIFTY09SEP202116700PE.csv (1126 rows)
+2025-06-14 16:03:19,957 - root - INFO - Saved historical_data\batch_20250614_230308\NIFTY09SEP202116750CE.csv (167 rows)
+2025-06-14 16:03:21,324 - root - INFO - Saved historical_data\batch_20250614_230308\NIFTY09SEP202116750PE.csv (1091 rows)
+2025-06-14 16:03:22,696 - root - INFO - Saved historical_data\batch_20250614_230308\NIFTY09SEP202116800CE.csv (605 rows)
+2025-06-14 16:03:24,056 - root - INFO - Saved historical_data\batch_20250614_230308\NIFTY09SEP202116800PE.csv (1126 rows)
+2025-06-14 16:03:25,267 - root - INFO - Saved historical_data\batch_20250614_230308\NIFTY09SEP202116850CE.csv (259 rows)
+2025-06-14 16:03:26,640 - root - INFO - Saved historical_data\batch_20250614_230308\NIFTY09SEP202116850PE.csv (1105 rows)
+2025-06-14 16:03:28,014 - root - INFO - Saved historical_data\batch_20250614_230308\NIFTY09SEP202116900CE.csv (792 rows)
+2025-06-14 16:03:28,957 - root - INFO - No data for NIFTY 09SEP2021 16900 PE
+2025-06-14 16:03:29,889 - root - INFO - No data for NIFTY 09SEP2021 16950 CE
+2025-06-14 16:03:30,807 - root - INFO - No data for NIFTY 09SEP2021 16950 PE
+2025-06-14 16:03:31,726 - root - INFO - No data for NIFTY 09SEP2021 17000 CE
+2025-06-14 16:03:32,675 - root - INFO - No data for NIFTY 09SEP2021 17000 PE
+2025-06-14 16:03:33,617 - root - INFO - No data for NIFTY 09SEP2021 17050 CE
+2025-06-14 16:03:34,540 - root - INFO - No data for NIFTY 09SEP2021 17050 PE
+2025-06-14 16:03:35,483 - root - INFO - No data for NIFTY 09SEP2021 17100 CE
+2025-06-14 16:03:36,427 - root - INFO - No data for NIFTY 09SEP2021 17100 PE
+2025-06-14 16:03:37,352 - root - INFO - No data for NIFTY 09SEP2021 17150 CE
+2025-06-14 16:03:38,295 - root - INFO - No data for NIFTY 09SEP2021 17150 PE
+2025-06-14 16:03:39,218 - root - INFO - No data for NIFTY 09SEP2021 17200 CE
+2025-06-14 16:03:40,165 - root - INFO - No data for NIFTY 09SEP2021 17200 PE
+2025-06-14 16:03:41,095 - root - INFO - No data for NIFTY 09SEP2021 17250 CE
+2025-06-14 16:03:42,031 - root - INFO - No data for NIFTY 09SEP2021 17250 PE
+2025-06-14 16:03:42,970 - root - INFO - No data for NIFTY 09SEP2021 17300 CE
+2025-06-14 16:03:43,901 - root - INFO - No data for NIFTY 09SEP2021 17300 PE
+2025-06-14 16:03:44,840 - root - INFO - No data for NIFTY 09SEP2021 17350 CE
+2025-06-14 16:03:45,787 - root - INFO - No data for NIFTY 09SEP2021 17350 PE
+2025-06-14 16:03:46,717 - root - INFO - No data for NIFTY 09SEP2021 17400 CE
+2025-06-14 16:03:47,642 - root - INFO - No data for NIFTY 09SEP2021 17400 PE
+2025-06-14 16:03:48,562 - root - INFO - No data for NIFTY 09SEP2021 17450 CE
+2025-06-14 16:03:49,483 - root - INFO - No data for NIFTY 09SEP2021 17450 PE
+2025-06-14 16:03:50,424 - root - INFO - No data for NIFTY 09SEP2021 17500 CE
+2025-06-14 16:03:51,354 - root - INFO - No data for NIFTY 09SEP2021 17500 PE
+2025-06-14 16:03:52,281 - root - INFO - No data for NIFTY 09SEP2021 17550 CE
+2025-06-14 16:03:53,226 - root - INFO - No data for NIFTY 09SEP2021 17550 PE
+2025-06-14 16:03:54,160 - root - INFO - No data for NIFTY 09SEP2021 17600 CE
+2025-06-14 16:03:55,104 - root - INFO - No data for NIFTY 09SEP2021 17600 PE
+2025-06-14 16:03:56,029 - root - INFO - No data for NIFTY 09SEP2021 17650 CE
+2025-06-14 16:03:56,973 - root - INFO - No data for NIFTY 09SEP2021 17650 PE
+2025-06-14 16:03:57,913 - root - INFO - No data for NIFTY 09SEP2021 17700 CE
+2025-06-14 16:03:58,850 - root - INFO - No data for NIFTY 09SEP2021 17700 PE
+2025-06-14 16:03:59,796 - root - INFO - No data for NIFTY 09SEP2021 17750 CE
+2025-06-14 16:04:00,724 - root - INFO - No data for NIFTY 09SEP2021 17750 PE
+2025-06-14 16:04:01,649 - root - INFO - No data for NIFTY 09SEP2021 17800 CE
+2025-06-14 16:04:02,594 - root - INFO - No data for NIFTY 09SEP2021 17800 PE
+2025-06-14 16:04:03,522 - root - INFO - No data for NIFTY 09SEP2021 17850 CE
+2025-06-14 16:04:04,448 - root - INFO - No data for NIFTY 09SEP2021 17850 PE
+2025-06-14 16:04:05,379 - root - INFO - No data for NIFTY 09SEP2021 17900 CE
+2025-06-14 16:04:06,319 - root - INFO - No data for NIFTY 09SEP2021 17900 PE
+2025-06-14 16:04:07,263 - root - INFO - No data for NIFTY 16SEP2021 16750 CE
+2025-06-14 16:04:08,182 - root - INFO - No data for NIFTY 16SEP2021 16750 PE
+2025-06-14 16:04:09,123 - root - INFO - No data for NIFTY 16SEP2021 16800 CE
+2025-06-14 16:04:10,831 - root - INFO - Saved historical_data\batch_20250614_230308\NIFTY16SEP202116800PE.csv (2621 rows)
+2025-06-14 16:04:11,874 - root - INFO - Saved historical_data\batch_20250614_230308\NIFTY16SEP202116850CE.csv (119 rows)
+2025-06-14 16:04:13,563 - root - INFO - Saved historical_data\batch_20250614_230308\NIFTY16SEP202116850PE.csv (2451 rows)
+2025-06-14 16:04:14,909 - root - INFO - Saved historical_data\batch_20250614_230308\NIFTY16SEP202116900CE.csv (912 rows)
+2025-06-14 16:04:16,573 - root - INFO - Saved historical_data\batch_20250614_230308\NIFTY16SEP202116900PE.csv (2623 rows)
+2025-06-14 16:04:17,777 - root - INFO - Saved historical_data\batch_20250614_230308\NIFTY16SEP202116950CE.csv (330 rows)
+2025-06-14 16:04:19,427 - root - INFO - Saved historical_data\batch_20250614_230308\NIFTY16SEP202116950PE.csv (2554 rows)
+2025-06-14 16:04:20,975 - root - INFO - Saved historical_data\batch_20250614_230308\NIFTY16SEP202117000CE.csv (2293 rows)
+2025-06-14 16:04:22,656 - root - INFO - Saved historical_data\batch_20250614_230308\NIFTY16SEP202117000PE.csv (2626 rows)
+2025-06-14 16:04:23,988 - root - INFO - Saved historical_data\batch_20250614_230308\NIFTY16SEP202117050CE.csv (693 rows)
+2025-06-14 16:04:25,684 - root - INFO - Saved historical_data\batch_20250614_230308\NIFTY16SEP202117050PE.csv (2587 rows)
+2025-06-14 16:04:27,379 - root - INFO - Saved historical_data\batch_20250614_230308\NIFTY16SEP202117100CE.csv (2389 rows)
+2025-06-14 16:04:29,090 - root - INFO - Saved historical_data\batch_20250614_230308\NIFTY16SEP202117100PE.csv (2628 rows)
+2025-06-14 16:04:30,640 - root - INFO - Saved historical_data\batch_20250614_230308\NIFTY16SEP202117150CE.csv (1769 rows)
+2025-06-14 16:04:32,328 - root - INFO - Saved historical_data\batch_20250614_230308\NIFTY16SEP202117150PE.csv (2608 rows)
+2025-06-14 16:04:33,277 - root - INFO - No data for NIFTY 16SEP2021 17200 CE
+2025-06-14 16:04:34,206 - root - INFO - No data for NIFTY 16SEP2021 17200 PE
+2025-06-14 16:04:35,141 - root - INFO - No data for NIFTY 16SEP2021 17250 CE
+2025-06-14 16:04:36,081 - root - INFO - No data for NIFTY 16SEP2021 17250 PE
+2025-06-14 16:04:37,015 - root - INFO - No data for NIFTY 16SEP2021 17300 CE
+2025-06-14 16:04:37,952 - root - INFO - No data for NIFTY 16SEP2021 17300 PE
+2025-06-14 16:04:38,885 - root - INFO - No data for NIFTY 16SEP2021 17350 CE
+2025-06-14 16:04:39,823 - root - INFO - No data for NIFTY 16SEP2021 17350 PE
+2025-06-14 16:04:40,756 - root - INFO - No data for NIFTY 16SEP2021 17400 CE
+2025-06-14 16:04:41,687 - root - INFO - No data for NIFTY 16SEP2021 17400 PE
+2025-06-14 16:04:42,626 - root - INFO - No data for NIFTY 16SEP2021 17450 CE
+2025-06-14 16:04:43,546 - root - INFO - No data for NIFTY 16SEP2021 17450 PE
+2025-06-14 16:04:44,490 - root - INFO - No data for NIFTY 16SEP2021 17500 CE
+2025-06-14 16:04:45,439 - root - INFO - No data for NIFTY 16SEP2021 17500 PE
+2025-06-14 16:04:46,373 - root - INFO - No data for NIFTY 16SEP2021 17550 CE
+2025-06-14 16:04:47,297 - root - INFO - No data for NIFTY 16SEP2021 17550 PE
+2025-06-14 16:04:48,216 - root - INFO - No data for NIFTY 16SEP2021 17600 CE
+2025-06-14 16:04:49,148 - root - INFO - No data for NIFTY 16SEP2021 17600 PE
+2025-06-14 16:04:50,086 - root - INFO - No data for NIFTY 16SEP2021 17650 CE
+2025-06-14 16:04:51,017 - root - INFO - No data for NIFTY 16SEP2021 17650 PE
+2025-06-14 16:04:51,947 - root - INFO - No data for NIFTY 16SEP2021 17700 CE
+2025-06-14 16:04:52,887 - root - INFO - No data for NIFTY 16SEP2021 17700 PE
+2025-06-14 16:04:53,822 - root - INFO - No data for NIFTY 16SEP2021 17750 CE
+2025-06-14 16:04:54,755 - root - INFO - No data for NIFTY 16SEP2021 17750 PE
+2025-06-14 16:04:55,692 - root - INFO - No data for NIFTY 16SEP2021 17800 CE
+2025-06-14 16:04:56,641 - root - INFO - No data for NIFTY 16SEP2021 17800 PE
+2025-06-14 16:04:57,573 - root - INFO - No data for NIFTY 16SEP2021 17850 CE
+2025-06-14 16:04:58,509 - root - INFO - No data for NIFTY 16SEP2021 17850 PE
+2025-06-14 16:04:59,444 - root - INFO - No data for NIFTY 16SEP2021 17900 CE
+2025-06-14 16:05:00,376 - root - INFO - No data for NIFTY 16SEP2021 17900 PE
+2025-06-14 16:05:01,329 - root - INFO - No data for NIFTY 16SEP2021 17950 CE
+2025-06-14 16:05:02,272 - root - INFO - No data for NIFTY 16SEP2021 17950 PE
+2025-06-14 16:05:03,225 - root - INFO - No data for NIFTY 16SEP2021 18000 CE
+2025-06-14 16:05:04,177 - root - INFO - No data for NIFTY 16SEP2021 18000 PE
+2025-06-14 16:05:04,177 - root - INFO - Download complete. 30 CSV files generated in historical_data\batch_20250614_230308
+2025-06-14 16:05:04,988 - root - INFO - Combined file written to: historical_data\batch_20250614_230308\combined_master.csv
+2025-06-14 16:05:04,989 - root - INFO - Starting DB import...
+2025-06-14 16:05:19,887 - root - INFO - Imported 30 CSVs, 0 failed.
+2025-06-14 16:05:19,887 - root - INFO - ALL DONE. 30 files imported, 0 failed. Master CSV: historical_data\batch_20250614_230308\combined_master.csv
+2025-06-14 16:05:19,927 - NSEDataCollector - INFO - Connected to database successfully
+2025-06-14 16:05:19,928 - IndicatorCalculator - INFO - Connected to database successfully
+2025-06-14 16:05:19,934 - NSEDataCollector - INFO - Loaded 101 instruments from database
+2025-06-14 16:05:19,954 - IndicatorCalculator - INFO - Loaded 100 1-minute candles for instrument 1
+2025-06-14 16:05:19,957 - IndicatorCalculator - INFO - Loaded 100 1-minute candles for instrument 2
+2025-06-14 16:05:19,963 - IndicatorCalculator - INFO - Loaded 100 1-minute candles for instrument 3
+2025-06-14 16:05:19,969 - IndicatorCalculator - INFO - Loaded 85 1-minute candles for instrument 4
+2025-06-14 16:05:19,975 - IndicatorCalculator - INFO - Loaded 100 1-minute candles for instrument 5
+2025-06-14 16:05:19,978 - IndicatorCalculator - INFO - Loaded 100 1-minute candles for instrument 6
+2025-06-14 16:05:19,985 - IndicatorCalculator - INFO - Loaded 100 1-minute candles for instrument 7
+2025-06-14 16:05:19,989 - IndicatorCalculator - INFO - Loaded 100 1-minute candles for instrument 8
+2025-06-14 16:05:19,995 - IndicatorCalculator - INFO - Loaded 100 1-minute candles for instrument 9
+2025-06-14 16:05:19,999 - IndicatorCalculator - INFO - Loaded 100 1-minute candles for instrument 10
+2025-06-14 16:05:20,005 - IndicatorCalculator - INFO - Loaded 100 1-minute candles for instrument 11
+2025-06-14 16:05:20,009 - IndicatorCalculator - INFO - Loaded 100 1-minute candles for instrument 12
+2025-06-14 16:05:20,017 - IndicatorCalculator - INFO - Loaded 100 1-minute candles for instrument 13
+2025-06-14 16:05:20,020 - IndicatorCalculator - INFO - Loaded 100 1-minute candles for instrument 14
+2025-06-14 16:05:20,148 - IndicatorCalculator - INFO - Loaded 40 1-minute candles for instrument 86
+2025-06-14 16:05:20,151 - IndicatorCalculator - INFO - Loaded 100 1-minute candles for instrument 87
+2025-06-14 16:05:20,157 - IndicatorCalculator - INFO - Loaded 100 1-minute candles for instrument 88
+2025-06-14 16:05:20,159 - IndicatorCalculator - INFO - Loaded 100 1-minute candles for instrument 89
+2025-06-14 16:05:20,162 - IndicatorCalculator - INFO - Loaded 100 1-minute candles for instrument 90
+2025-06-14 16:05:20,165 - IndicatorCalculator - INFO - Loaded 100 1-minute candles for instrument 91
+2025-06-14 16:05:20,170 - IndicatorCalculator - INFO - Loaded 100 1-minute candles for instrument 92
+2025-06-14 16:05:20,173 - IndicatorCalculator - INFO - Loaded 100 1-minute candles for instrument 93
+2025-06-14 16:05:20,176 - IndicatorCalculator - INFO - Loaded 100 1-minute candles for instrument 94
+2025-06-14 16:05:20,179 - IndicatorCalculator - INFO - Loaded 100 1-minute candles for instrument 95
+2025-06-14 16:05:20,184 - IndicatorCalculator - INFO - Loaded 100 1-minute candles for instrument 96
+2025-06-14 16:05:20,187 - IndicatorCalculator - INFO - Loaded 100 1-minute candles for instrument 97
+2025-06-14 16:05:20,190 - IndicatorCalculator - INFO - Loaded 100 1-minute candles for instrument 98
+2025-06-14 16:05:20,193 - IndicatorCalculator - INFO - Loaded 100 1-minute candles for instrument 99
+2025-06-14 16:05:20,196 - IndicatorCalculator - INFO - Loaded 100 1-minute candles for instrument 100
+2025-06-14 16:05:20,200 - IndicatorCalculator - INFO - Loaded 100 1-minute candles for instrument 101
+2025-06-14 16:05:20,201 - IndicatorCalculator - INFO - Historical data loaded successfully
+2025-06-14 16:05:20,201 - IndicatorCalculator - INFO - Indicator Calculator started successfully
+2025-06-14 16:05:20,201 - IndicatorCalculator - INFO - Starting periodic indicator recalculation
+2025-06-14 16:05:20,379 - NSEDataCollector - INFO - Full /gettoken response: {"Status":true,"AccessToken":"0b6fbd8c8d0d4e768d800ee296594f90","MaxSymbol":70,"Message":"\n<csvheader>Ticker,UniqueName,Symbol,Expiry,StrikePrice,OptionType,LTD,LTT,Open,High,Low,LTP,Vol,PrevVol,OI,PrevOI,TTQ,TTV,DayOpen,DayHighest,DayLowest,BBQ,BBP,BSQ,BSP,PrevClose,IV</csvheader>\n<ocnheader>CE_DayOpen,CE_DayHighest,CE_DayLowest,CE_PrevClose,CE_LTP,CE_LTD,CE_LTT,CE_TTQ,CE_TTV,CE_OI,CE_PrevOI,CE_Vol,CE_PrevVol,CE_BBP,CE_BBQ,CE_BSP,CE_BSQ,CE_ATP,CE_IV,CE_BSMPrice,CE_Delta,CE_Theta,CE_Gamma,CE_Rho,CE_PCRValue,CE_PCRVol,CE_PCROI,CE_Intrinsic,CE_Extrinsic,CE_Probability,CE_Moneyness,Symbol,Expiry,Strike,PE_DayOpen,PE_DayHighest,PE_DayLowest,PE_PrevClose,PE_LTP,PE_LTD,PE_LTT,PE_TTQ,PE_TTV,PE_OI,PE_PrevOI,PE_Vol,PE_PrevVol,PE_BBP,PE_BBQ,PE_BSP,PE_BSQ,PE_ATP,PE_IV,PE_BSMPrice,PE_Delta,PE_Theta,PE_Gamma,PE_Rho,PE_PCRValue,PE_PCRVol,PE_PCROI,PE_Intrinsic,PE_Extrinsic,PE_Probability,PE_Moneyness</ocnheader>\n<tickrtheader>Instrument,Symbol,Expiry,Strike,OptionType,Skip,TimeStamp,BidPrice,BidQty,AskPrice,AskQty,LTP,Volume,Skip,Open,High,Low,PrevClose,ATP,TTV,Skip</tickrtheader>\n<tickoiheader>Instrument,Symbol,Expiry,Strike,OptionType,OI,Skip,TimeStamp,Skip</tickoiheader>\n<grkheader>IV,BSMPrice,Delta,Theta,Gamma,Rho,PCRValue,PCRVol,PCROI,Intrinsic,Extrinsic,Probability,Moneyness,MaxPain</grkheader>\r\n","UpdateTime":"2025-06-15T04:34:57.1952326+05:30","ValidUntil":"2025-06-15T23:59:59"}
+2025-06-14 16:05:20,380 - NSEDataCollector - INFO - Authentication token obtained successfully (MaxSymbol=70)
+2025-06-14 16:05:22,001 - NSEDataCollector - INFO - Tickers downloaded successfully
+2025-06-14 16:05:22,003 - NSEDataCollector - INFO - Connecting to websocket: ws://116.202.165.216:992/directrt/?loginid=DC-BPRA9112&accesstoken=0b6fbd8c8d0d4e768d800ee296594f90&product=DIRECTRTLITE
+2025-06-14 16:05:22,318 - NSEDataCollector - INFO - Connected to NSE websocket
+2025-06-14 16:05:22,343 - NSEDataCollector - INFO - Filtered 70 relevant tickers from tickers.txt (Allowed segments: ('NSE_', 'BSE_'), MaxSymbol=70)
+2025-06-14 16:05:22,345 - NSEDataCollector - INFO - Sample of tickers to be subscribed: ['BSE_STOCK_0795GOI32', 'BSE_STOCK_08ABB', 'BSE_STOCK_08ADD', 'BSE_STOCK_08ADR', 'BSE_STOCK_08AGG', 'BSE_STOCK_08AMD', 'BSE_STOCK_08AMR', 'BSE_STOCK_08AQD', 'BSE_STOCK_08AQR', 'BSE_STOCK_08BPB']
+2025-06-14 16:05:22,347 - NSEDataCollector - INFO - Instruments table updated successfully
+2025-06-14 16:05:22,356 - NSEDataCollector - INFO - Subscribed to 70 channels
+2025-06-14 16:05:22,475 - Socketcluster - DEBUG - {"event":"Authenticated","data":"{\"grantcode\":\"\"}"}
+2025-06-14 16:05:22,475 - Socketcluster - DEBUG - received data for event :: Authenticated
+2025-06-14 16:05:22,476 - Socketcluster - DEBUG - {"event":"getcsvdataheader","data":"Ticker,Symbol,ShortName,SymbolID,LTD,LTM,LTT,Open,High,Low,LTP,Volume,OI,PrevClose"}
+2025-06-14 16:05:22,477 - Socketcluster - DEBUG - received data for event :: getcsvdataheader
+2025-06-14 16:05:22,478 - Socketcluster - DEBUG - {"rid":1,"data":{"id":"e9cCEfq7Z5cLHirTAAk2","pingTimeout":36000000,"isAuthenticated":false}}
+2025-06-14 16:05:22,504 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_0795GOI32.JSON Symbol added."}
+2025-06-14 16:05:22,505 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,506 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_08ABB.JSON Symbol added."}
+2025-06-14 16:05:22,506 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,507 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_08ADD.JSON Symbol added."}
+2025-06-14 16:05:22,508 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,508 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_08ADR.JSON Symbol added."}
+2025-06-14 16:05:22,508 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,509 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_08AGG.JSON Symbol added."}
+2025-06-14 16:05:22,510 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,510 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_08AMD.JSON Symbol added."}
+2025-06-14 16:05:22,511 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,511 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_08AMR.JSON Symbol added."}
+2025-06-14 16:05:22,512 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,512 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_08AQD.JSON Symbol added."}
+2025-06-14 16:05:22,513 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,513 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_08AQR.JSON Symbol added."}
+2025-06-14 16:05:22,514 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,514 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_08BPB.JSON Symbol added."}
+2025-06-14 16:05:22,515 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,515 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_08DPD.JSON Symbol added."}
+2025-06-14 16:05:22,517 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,518 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_08DPR.JSON Symbol added."}
+2025-06-14 16:05:22,518 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,518 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_08GPG.JSON Symbol added."}
+2025-06-14 16:05:22,518 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,520 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_08MPD.JSON Symbol added."}
+2025-06-14 16:05:22,520 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,521 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_08MPR.JSON Symbol added."}
+2025-06-14 16:05:22,521 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,522 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_08QPD.JSON Symbol added."}
+2025-06-14 16:05:22,522 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,522 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_08QPR.JSON Symbol added."}
+2025-06-14 16:05:22,523 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,524 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_091TB190919.JSON Symbol added."}
+2025-06-14 16:05:22,524 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,525 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_1018GOI26.JSON Symbol added."}
+2025-06-14 16:05:22,525 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,526 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_1018GS2026.JSON Symbol added."}
+2025-06-14 16:05:22,526 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,526 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_11ADD.JSON Symbol added."}
+2025-06-14 16:05:22,526 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,527 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_11ADR.JSON Symbol added."}
+2025-06-14 16:05:22,528 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,528 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_11AGG.JSON Symbol added."}
+2025-06-14 16:05:22,529 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,529 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_11AMD.JSON Symbol added."}
+2025-06-14 16:05:22,530 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,530 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_11AMR.JSON Symbol added."}
+2025-06-14 16:05:22,530 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,531 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_11AQD.JSON Symbol added."}
+2025-06-14 16:05:22,531 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,533 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_11AQR.JSON Symbol added."}
+2025-06-14 16:05:22,533 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,534 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_11DPD.JSON Symbol added."}
+2025-06-14 16:05:22,535 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,535 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_11DPR.JSON Symbol added."}
+2025-06-14 16:05:22,536 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,536 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_11GPG.JSON Symbol added."}
+2025-06-14 16:05:22,536 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,537 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_11MPD.JSON Symbol added."}
+2025-06-14 16:05:22,538 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,538 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_11MPR.JSON Symbol added."}
+2025-06-14 16:05:22,538 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,540 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_11QPD.JSON Symbol added."}
+2025-06-14 16:05:22,540 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,540 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_11QPR.JSON Symbol added."}
+2025-06-14 16:05:22,540 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,541 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_182T041225.JSON Symbol added."}
+2025-06-14 16:05:22,541 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,542 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_182T101025.JSON Symbol added."}
+2025-06-14 16:05:22,543 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,543 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_182T111225.JSON Symbol added."}
+2025-06-14 16:05:22,544 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,545 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_182T131125.JSON Symbol added."}
+2025-06-14 16:05:22,545 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,545 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_182T161025.JSON Symbol added."}
+2025-06-14 16:05:22,546 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,547 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_182T201125.JSON Symbol added."}
+2025-06-14 16:05:22,547 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,548 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_182T231025.JSON Symbol added."}
+2025-06-14 16:05:22,549 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,550 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_182T271125.JSON Symbol added."}
+2025-06-14 16:05:22,550 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,550 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_182T311025.JSON Symbol added."}
+2025-06-14 16:05:22,550 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,552 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_182T611025.JSON Symbol added."}
+2025-06-14 16:05:22,552 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,553 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_182TB10725.JSON Symbol added."}
+2025-06-14 16:05:22,553 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,554 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_182TB11925.JSON Symbol added."}
+2025-06-14 16:05:22,554 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,554 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_182TB14825.JSON Symbol added."}
+2025-06-14 16:05:22,555 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,556 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_182TB17725.JSON Symbol added."}
+2025-06-14 16:05:22,556 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,557 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_182TB18925.JSON Symbol added."}
+2025-06-14 16:05:22,557 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,557 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_182TB19625.JSON Symbol added."}
+2025-06-14 16:05:22,558 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,558 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_182TB21025.JSON Symbol added."}
+2025-06-14 16:05:22,559 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,559 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_182TB22825.JSON Symbol added."}
+2025-06-14 16:05:22,559 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,560 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_182TB24725.JSON Symbol added."}
+2025-06-14 16:05:22,561 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,561 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_182TB25925.JSON Symbol added."}
+2025-06-14 16:05:22,562 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,563 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_182TB27625.JSON Symbol added."}
+2025-06-14 16:05:22,563 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,563 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_182TB29825.JSON Symbol added."}
+2025-06-14 16:05:22,563 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,565 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_182TB30725.JSON Symbol added."}
+2025-06-14 16:05:22,566 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,567 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_182TB31725.JSON Symbol added."}
+2025-06-14 16:05:22,568 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,568 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_182TB40925.JSON Symbol added."}
+2025-06-14 16:05:22,568 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,569 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_182TB70825.JSON Symbol added."}
+2025-06-14 16:05:22,570 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,570 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_1STCUS.JSON Symbol added."}
+2025-06-14 16:05:22,571 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,572 - Socketcluster - DEBUG - {"event":"susbcribed","data":"NSE_STOCK_20MICRONS.JSON Symbol added."}
+2025-06-14 16:05:22,573 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,573 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_20MICRONS.JSON Symbol added."}
+2025-06-14 16:05:22,573 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,574 - Socketcluster - DEBUG - {"event":"susbcribed","data":"NSE_STOCK_21STCENMGM.JSON Symbol added."}
+2025-06-14 16:05:22,574 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,574 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_21STCENMGM.JSON Symbol added."}
+2025-06-14 16:05:22,575 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,576 - Socketcluster - DEBUG - {"event":"susbcribed","data":"NSE_STOCK_360ONE.JSON Symbol added."}
+2025-06-14 16:05:22,576 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,577 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_360ONE.JSON Symbol added."}
+2025-06-14 16:05:22,578 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,578 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_364T020426.JSON Symbol added."}
+2025-06-14 16:05:22,578 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,578 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_364TB010126.JSON Symbol added."}
+2025-06-14 16:05:22,580 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,580 - Socketcluster - DEBUG - {"event":"susbcribed","data":"BSE_STOCK_364TB031025.JSON Symbol added."}
+2025-06-14 16:05:22,581 - Socketcluster - DEBUG - received data for event :: susbcribed
+2025-06-14 16:05:22,581 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_0795GOI32.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,582 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,583 - Socketcluster - DEBUG - {"rid":2}
+2025-06-14 16:05:22,583 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_0795GOI32.JSON
+2025-06-14 16:05:22,583 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_0795GOI32.JSON
+2025-06-14 16:05:22,583 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_08ABB.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,585 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,585 - Socketcluster - DEBUG - {"rid":3}
+2025-06-14 16:05:22,586 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_08ABB.JSON
+2025-06-14 16:05:22,587 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_08ABB.JSON
+2025-06-14 16:05:22,587 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_08ADD.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,587 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,587 - Socketcluster - DEBUG - {"rid":4}
+2025-06-14 16:05:22,589 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_08ADD.JSON
+2025-06-14 16:05:22,589 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_08ADD.JSON
+2025-06-14 16:05:22,589 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_08ADR.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,590 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,591 - Socketcluster - DEBUG - {"rid":5}
+2025-06-14 16:05:22,591 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_08ADR.JSON
+2025-06-14 16:05:22,592 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_08ADR.JSON
+2025-06-14 16:05:22,592 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_08AGG.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,592 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,593 - Socketcluster - DEBUG - {"rid":6}
+2025-06-14 16:05:22,593 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_08AGG.JSON
+2025-06-14 16:05:22,594 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_08AGG.JSON
+2025-06-14 16:05:22,594 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_08AMD.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,595 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,596 - Socketcluster - DEBUG - {"rid":7}
+2025-06-14 16:05:22,596 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_08AMD.JSON
+2025-06-14 16:05:22,597 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_08AMD.JSON
+2025-06-14 16:05:22,597 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_08AMR.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,598 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,598 - Socketcluster - DEBUG - {"rid":8}
+2025-06-14 16:05:22,599 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_08AMR.JSON
+2025-06-14 16:05:22,599 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_08AMR.JSON
+2025-06-14 16:05:22,600 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_08AQD.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,601 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,601 - Socketcluster - DEBUG - {"rid":9}
+2025-06-14 16:05:22,601 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_08AQD.JSON
+2025-06-14 16:05:22,601 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_08AQD.JSON
+2025-06-14 16:05:22,601 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_08AQR.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,603 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,604 - Socketcluster - DEBUG - {"rid":10}
+2025-06-14 16:05:22,604 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_08AQR.JSON
+2025-06-14 16:05:22,604 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_08AQR.JSON
+2025-06-14 16:05:22,605 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_08BPB.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,605 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,606 - Socketcluster - DEBUG - {"rid":11}
+2025-06-14 16:05:22,606 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_08BPB.JSON
+2025-06-14 16:05:22,606 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_08BPB.JSON
+2025-06-14 16:05:22,606 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_08DPD.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,607 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,608 - Socketcluster - DEBUG - {"rid":12}
+2025-06-14 16:05:22,608 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_08DPD.JSON
+2025-06-14 16:05:22,609 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_08DPD.JSON
+2025-06-14 16:05:22,609 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_08DPR.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,610 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,610 - Socketcluster - DEBUG - {"rid":13}
+2025-06-14 16:05:22,611 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_08DPR.JSON
+2025-06-14 16:05:22,611 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_08DPR.JSON
+2025-06-14 16:05:22,611 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_08GPG.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,611 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,613 - Socketcluster - DEBUG - {"rid":14}
+2025-06-14 16:05:22,613 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_08GPG.JSON
+2025-06-14 16:05:22,614 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_08GPG.JSON
+2025-06-14 16:05:22,614 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_08MPD.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,615 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,615 - Socketcluster - DEBUG - {"rid":15}
+2025-06-14 16:05:22,616 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_08MPD.JSON
+2025-06-14 16:05:22,616 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_08MPD.JSON
+2025-06-14 16:05:22,616 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_08MPR.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,616 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,618 - Socketcluster - DEBUG - {"rid":16}
+2025-06-14 16:05:22,618 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_08MPR.JSON
+2025-06-14 16:05:22,618 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_08MPR.JSON
+2025-06-14 16:05:22,618 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_08QPD.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,619 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,620 - Socketcluster - DEBUG - {"rid":17}
+2025-06-14 16:05:22,620 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_08QPD.JSON
+2025-06-14 16:05:22,620 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_08QPD.JSON
+2025-06-14 16:05:22,620 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_08QPR.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,621 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,622 - Socketcluster - DEBUG - {"rid":18}
+2025-06-14 16:05:22,622 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_08QPR.JSON
+2025-06-14 16:05:22,623 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_08QPR.JSON
+2025-06-14 16:05:22,624 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_091TB190919.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,624 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,624 - Socketcluster - DEBUG - {"rid":19}
+2025-06-14 16:05:22,625 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_091TB190919.JSON
+2025-06-14 16:05:22,625 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_091TB190919.JSON
+2025-06-14 16:05:22,626 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_1018GOI26.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,626 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,627 - Socketcluster - DEBUG - {"rid":20}
+2025-06-14 16:05:22,629 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_1018GOI26.JSON
+2025-06-14 16:05:22,629 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_1018GOI26.JSON
+2025-06-14 16:05:22,629 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_1018GS2026.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,629 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,629 - Socketcluster - DEBUG - {"rid":21}
+2025-06-14 16:05:22,630 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_1018GS2026.JSON
+2025-06-14 16:05:22,631 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_1018GS2026.JSON
+2025-06-14 16:05:22,631 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_11ADD.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,632 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,633 - Socketcluster - DEBUG - {"rid":22}
+2025-06-14 16:05:22,633 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_11ADD.JSON
+2025-06-14 16:05:22,633 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_11ADD.JSON
+2025-06-14 16:05:22,633 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_11ADR.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,633 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,635 - Socketcluster - DEBUG - {"rid":23}
+2025-06-14 16:05:22,635 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_11ADR.JSON
+2025-06-14 16:05:22,635 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_11ADR.JSON
+2025-06-14 16:05:22,635 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_11AGG.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,636 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,637 - Socketcluster - DEBUG - {"rid":24}
+2025-06-14 16:05:22,637 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_11AGG.JSON
+2025-06-14 16:05:22,637 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_11AGG.JSON
+2025-06-14 16:05:22,637 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_11AMD.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,638 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,639 - Socketcluster - DEBUG - {"rid":25}
+2025-06-14 16:05:22,639 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_11AMD.JSON
+2025-06-14 16:05:22,640 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_11AMD.JSON
+2025-06-14 16:05:22,640 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_11AMR.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,641 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,641 - Socketcluster - DEBUG - {"rid":26}
+2025-06-14 16:05:22,641 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_11AMR.JSON
+2025-06-14 16:05:22,641 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_11AMR.JSON
+2025-06-14 16:05:22,643 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_11AQD.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,643 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,644 - Socketcluster - DEBUG - {"rid":27}
+2025-06-14 16:05:22,644 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_11AQD.JSON
+2025-06-14 16:05:22,644 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_11AQD.JSON
+2025-06-14 16:05:22,645 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_11AQR.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,646 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,646 - Socketcluster - DEBUG - {"rid":28}
+2025-06-14 16:05:22,646 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_11AQR.JSON
+2025-06-14 16:05:22,646 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_11AQR.JSON
+2025-06-14 16:05:22,646 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_11DPD.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,648 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,648 - Socketcluster - DEBUG - {"rid":29}
+2025-06-14 16:05:22,649 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_11DPD.JSON
+2025-06-14 16:05:22,650 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_11DPD.JSON
+2025-06-14 16:05:22,650 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_11DPR.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,650 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,651 - Socketcluster - DEBUG - {"rid":30}
+2025-06-14 16:05:22,651 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_11DPR.JSON
+2025-06-14 16:05:22,652 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_11DPR.JSON
+2025-06-14 16:05:22,653 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_11GPG.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,653 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,654 - Socketcluster - DEBUG - {"rid":31}
+2025-06-14 16:05:22,655 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_11GPG.JSON
+2025-06-14 16:05:22,655 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_11GPG.JSON
+2025-06-14 16:05:22,655 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_11MPD.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,655 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,657 - Socketcluster - DEBUG - {"rid":32}
+2025-06-14 16:05:22,657 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_11MPD.JSON
+2025-06-14 16:05:22,657 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_11MPD.JSON
+2025-06-14 16:05:22,658 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_11MPR.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,659 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,660 - Socketcluster - DEBUG - {"rid":33}
+2025-06-14 16:05:22,660 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_11MPR.JSON
+2025-06-14 16:05:22,660 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_11MPR.JSON
+2025-06-14 16:05:22,662 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_11QPD.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,662 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,662 - Socketcluster - DEBUG - {"rid":34}
+2025-06-14 16:05:22,663 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_11QPD.JSON
+2025-06-14 16:05:22,663 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_11QPD.JSON
+2025-06-14 16:05:22,664 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_11QPR.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,664 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,664 - Socketcluster - DEBUG - {"rid":35}
+2025-06-14 16:05:22,666 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_11QPR.JSON
+2025-06-14 16:05:22,666 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_11QPR.JSON
+2025-06-14 16:05:22,667 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_182T041225.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,667 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,668 - Socketcluster - DEBUG - {"rid":36}
+2025-06-14 16:05:22,669 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_182T041225.JSON
+2025-06-14 16:05:22,669 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_182T041225.JSON
+2025-06-14 16:05:22,669 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_182T101025.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,669 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,671 - Socketcluster - DEBUG - {"rid":37}
+2025-06-14 16:05:22,671 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_182T101025.JSON
+2025-06-14 16:05:22,672 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_182T101025.JSON
+2025-06-14 16:05:22,672 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_182T111225.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,673 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,674 - Socketcluster - DEBUG - {"rid":38}
+2025-06-14 16:05:22,674 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_182T111225.JSON
+2025-06-14 16:05:22,674 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_182T111225.JSON
+2025-06-14 16:05:22,674 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_182T131125.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,676 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,676 - Socketcluster - DEBUG - {"rid":39}
+2025-06-14 16:05:22,677 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_182T131125.JSON
+2025-06-14 16:05:22,677 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_182T131125.JSON
+2025-06-14 16:05:22,678 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_182T161025.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,678 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,678 - Socketcluster - DEBUG - {"rid":40}
+2025-06-14 16:05:22,678 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_182T161025.JSON
+2025-06-14 16:05:22,679 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_182T161025.JSON
+2025-06-14 16:05:22,680 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_182T201125.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,680 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,680 - Socketcluster - DEBUG - {"rid":41}
+2025-06-14 16:05:22,681 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_182T201125.JSON
+2025-06-14 16:05:22,682 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_182T201125.JSON
+2025-06-14 16:05:22,682 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_182T231025.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,682 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,682 - Socketcluster - DEBUG - {"rid":42}
+2025-06-14 16:05:22,682 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_182T231025.JSON
+2025-06-14 16:05:22,684 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_182T231025.JSON
+2025-06-14 16:05:22,684 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_182T271125.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,684 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,685 - Socketcluster - DEBUG - {"rid":43}
+2025-06-14 16:05:22,685 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_182T271125.JSON
+2025-06-14 16:05:22,686 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_182T271125.JSON
+2025-06-14 16:05:22,686 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_182T311025.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,686 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,687 - Socketcluster - DEBUG - {"rid":44}
+2025-06-14 16:05:22,687 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_182T311025.JSON
+2025-06-14 16:05:22,688 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_182T311025.JSON
+2025-06-14 16:05:22,688 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_182T611025.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,688 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,689 - Socketcluster - DEBUG - {"rid":45}
+2025-06-14 16:05:22,689 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_182T611025.JSON
+2025-06-14 16:05:22,690 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_182T611025.JSON
+2025-06-14 16:05:22,690 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_182TB10725.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,691 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,691 - Socketcluster - DEBUG - {"rid":46}
+2025-06-14 16:05:22,691 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_182TB10725.JSON
+2025-06-14 16:05:22,691 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_182TB10725.JSON
+2025-06-14 16:05:22,691 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_182TB11925.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,693 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,693 - Socketcluster - DEBUG - {"rid":47}
+2025-06-14 16:05:22,693 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_182TB11925.JSON
+2025-06-14 16:05:22,694 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_182TB11925.JSON
+2025-06-14 16:05:22,694 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_182TB14825.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,695 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,695 - Socketcluster - DEBUG - {"rid":48}
+2025-06-14 16:05:22,695 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_182TB14825.JSON
+2025-06-14 16:05:22,695 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_182TB14825.JSON
+2025-06-14 16:05:22,697 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_182TB17725.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,697 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,697 - Socketcluster - DEBUG - {"rid":49}
+2025-06-14 16:05:22,698 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_182TB17725.JSON
+2025-06-14 16:05:22,699 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_182TB17725.JSON
+2025-06-14 16:05:22,699 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_182TB18925.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,699 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,699 - Socketcluster - DEBUG - {"rid":50}
+2025-06-14 16:05:22,699 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_182TB18925.JSON
+2025-06-14 16:05:22,701 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_182TB18925.JSON
+2025-06-14 16:05:22,701 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_182TB19625.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,701 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,701 - Socketcluster - DEBUG - {"rid":51}
+2025-06-14 16:05:22,702 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_182TB19625.JSON
+2025-06-14 16:05:22,702 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_182TB19625.JSON
+2025-06-14 16:05:22,703 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_182TB21025.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,703 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,703 - Socketcluster - DEBUG - {"rid":52}
+2025-06-14 16:05:22,703 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_182TB21025.JSON
+2025-06-14 16:05:22,704 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_182TB21025.JSON
+2025-06-14 16:05:22,705 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_182TB22825.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,705 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,706 - Socketcluster - DEBUG - {"rid":53}
+2025-06-14 16:05:22,707 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_182TB22825.JSON
+2025-06-14 16:05:22,707 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_182TB22825.JSON
+2025-06-14 16:05:22,707 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_182TB24725.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,707 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,707 - Socketcluster - DEBUG - {"rid":54}
+2025-06-14 16:05:22,708 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_182TB24725.JSON
+2025-06-14 16:05:22,709 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_182TB24725.JSON
+2025-06-14 16:05:22,709 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_182TB25925.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,710 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,710 - Socketcluster - DEBUG - {"rid":55}
+2025-06-14 16:05:22,711 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_182TB25925.JSON
+2025-06-14 16:05:22,711 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_182TB25925.JSON
+2025-06-14 16:05:22,711 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_182TB27625.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,712 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,712 - Socketcluster - DEBUG - {"rid":56}
+2025-06-14 16:05:22,713 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_182TB27625.JSON
+2025-06-14 16:05:22,713 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_182TB27625.JSON
+2025-06-14 16:05:22,713 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_182TB29825.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,714 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,715 - Socketcluster - DEBUG - {"rid":57}
+2025-06-14 16:05:22,715 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_182TB29825.JSON
+2025-06-14 16:05:22,715 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_182TB29825.JSON
+2025-06-14 16:05:22,715 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_182TB30725.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,716 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,717 - Socketcluster - DEBUG - {"rid":58}
+2025-06-14 16:05:22,717 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_182TB30725.JSON
+2025-06-14 16:05:22,717 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_182TB30725.JSON
+2025-06-14 16:05:22,717 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_182TB31725.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,718 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,718 - Socketcluster - DEBUG - {"rid":59}
+2025-06-14 16:05:22,719 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_182TB31725.JSON
+2025-06-14 16:05:22,719 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_182TB31725.JSON
+2025-06-14 16:05:22,719 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_182TB40925.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,720 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,721 - Socketcluster - DEBUG - {"rid":60}
+2025-06-14 16:05:22,722 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_182TB40925.JSON
+2025-06-14 16:05:22,722 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_182TB40925.JSON
+2025-06-14 16:05:22,723 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_182TB70825.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,724 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,724 - Socketcluster - DEBUG - {"rid":61}
+2025-06-14 16:05:22,724 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_182TB70825.JSON
+2025-06-14 16:05:22,725 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_182TB70825.JSON
+2025-06-14 16:05:22,725 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_1STCUS.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,726 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,726 - Socketcluster - DEBUG - {"rid":62}
+2025-06-14 16:05:22,727 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_1STCUS.JSON
+2025-06-14 16:05:22,727 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_1STCUS.JSON
+2025-06-14 16:05:22,728 - Socketcluster - DEBUG - {"event":"subscribed","data":"NSE_STOCK_20MICRONS.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,728 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,729 - Socketcluster - DEBUG - {"rid":63}
+2025-06-14 16:05:22,729 - Socketcluster - DEBUG - Ack received for event :: NSE_STOCK_20MICRONS.JSON
+2025-06-14 16:05:22,729 - NSEDataCollector - INFO - Subscription confirmed for NSE_STOCK_20MICRONS.JSON
+2025-06-14 16:05:22,730 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_20MICRONS.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,731 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,731 - Socketcluster - DEBUG - {"rid":64}
+2025-06-14 16:05:22,731 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_20MICRONS.JSON
+2025-06-14 16:05:22,731 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_20MICRONS.JSON
+2025-06-14 16:05:22,732 - Socketcluster - DEBUG - {"event":"subscribed","data":"NSE_STOCK_21STCENMGM.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,733 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,733 - Socketcluster - DEBUG - {"rid":65}
+2025-06-14 16:05:22,734 - Socketcluster - DEBUG - Ack received for event :: NSE_STOCK_21STCENMGM.JSON
+2025-06-14 16:05:22,734 - NSEDataCollector - INFO - Subscription confirmed for NSE_STOCK_21STCENMGM.JSON
+2025-06-14 16:05:22,734 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_21STCENMGM.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,735 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,735 - Socketcluster - DEBUG - {"rid":66}
+2025-06-14 16:05:22,736 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_21STCENMGM.JSON
+2025-06-14 16:05:22,736 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_21STCENMGM.JSON
+2025-06-14 16:05:22,736 - Socketcluster - DEBUG - {"event":"subscribed","data":"NSE_STOCK_360ONE.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,737 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,737 - Socketcluster - DEBUG - {"rid":67}
+2025-06-14 16:05:22,738 - Socketcluster - DEBUG - Ack received for event :: NSE_STOCK_360ONE.JSON
+2025-06-14 16:05:22,738 - NSEDataCollector - INFO - Subscription confirmed for NSE_STOCK_360ONE.JSON
+2025-06-14 16:05:22,739 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_360ONE.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,740 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,740 - Socketcluster - DEBUG - {"rid":68}
+2025-06-14 16:05:22,740 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_360ONE.JSON
+2025-06-14 16:05:22,740 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_360ONE.JSON
+2025-06-14 16:05:22,741 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_364T020426.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,741 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,742 - Socketcluster - DEBUG - {"rid":69}
+2025-06-14 16:05:22,742 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_364T020426.JSON
+2025-06-14 16:05:22,742 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_364T020426.JSON
+2025-06-14 16:05:22,743 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_364TB010126.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,744 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,744 - Socketcluster - DEBUG - {"rid":70}
+2025-06-14 16:05:22,744 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_364TB010126.JSON
+2025-06-14 16:05:22,745 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_364TB010126.JSON
+2025-06-14 16:05:22,745 - Socketcluster - DEBUG - {"event":"subscribed","data":"BSE_STOCK_364TB031025.JSON\r\nUsed 70/70"}
+2025-06-14 16:05:22,746 - Socketcluster - DEBUG - received data for event :: subscribed
+2025-06-14 16:05:22,746 - Socketcluster - DEBUG - {"rid":71}
+2025-06-14 16:05:22,747 - Socketcluster - DEBUG - Ack received for event :: BSE_STOCK_364TB031025.JSON
+2025-06-14 16:05:22,747 - NSEDataCollector - INFO - Subscription confirmed for BSE_STOCK_364TB031025.JSON
+2025-06-14 16:05:22,747 - Socketcluster - DEBUG - {"rid":72,"error":{"message":"Can not add Symbol BSE_STOCK_0795GOI32.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_0795GOI32.JSON","code":4123}}
+2025-06-14 16:05:22,748 - Socketcluster - DEBUG - {"rid":73,"error":{"message":"Can not add Symbol BSE_STOCK_08ABB.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_08ABB.JSON","code":4123}}
+2025-06-14 16:05:22,749 - Socketcluster - DEBUG - {"rid":74,"error":{"message":"Can not add Symbol BSE_STOCK_08ADD.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_08ADD.JSON","code":4123}}
+2025-06-14 16:05:22,750 - Socketcluster - DEBUG - {"rid":75,"error":{"message":"Can not add Symbol BSE_STOCK_08ADR.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_08ADR.JSON","code":4123}}
+2025-06-14 16:05:22,750 - Socketcluster - DEBUG - {"rid":76,"error":{"message":"Can not add Symbol BSE_STOCK_08AGG.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_08AGG.JSON","code":4123}}
+2025-06-14 16:05:22,751 - Socketcluster - DEBUG - {"rid":77,"error":{"message":"Can not add Symbol BSE_STOCK_08AMD.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_08AMD.JSON","code":4123}}
+2025-06-14 16:05:22,752 - Socketcluster - DEBUG - {"rid":78,"error":{"message":"Can not add Symbol BSE_STOCK_08AMR.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_08AMR.JSON","code":4123}}
+2025-06-14 16:05:22,752 - Socketcluster - DEBUG - {"rid":79,"error":{"message":"Can not add Symbol BSE_STOCK_08AQD.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_08AQD.JSON","code":4123}}
+2025-06-14 16:05:22,752 - Socketcluster - DEBUG - {"rid":80,"error":{"message":"Can not add Symbol BSE_STOCK_08AQR.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_08AQR.JSON","code":4123}}
+2025-06-14 16:05:22,754 - Socketcluster - DEBUG - {"rid":81,"error":{"message":"Can not add Symbol BSE_STOCK_08BPB.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_08BPB.JSON","code":4123}}
+2025-06-14 16:05:22,754 - Socketcluster - DEBUG - {"rid":82,"error":{"message":"Can not add Symbol BSE_STOCK_08DPD.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_08DPD.JSON","code":4123}}
+2025-06-14 16:05:22,755 - Socketcluster - DEBUG - {"rid":83,"error":{"message":"Can not add Symbol BSE_STOCK_08DPR.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_08DPR.JSON","code":4123}}
+2025-06-14 16:05:22,756 - Socketcluster - DEBUG - {"rid":84,"error":{"message":"Can not add Symbol BSE_STOCK_08GPG.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_08GPG.JSON","code":4123}}
+2025-06-14 16:05:22,756 - Socketcluster - DEBUG - {"rid":85,"error":{"message":"Can not add Symbol BSE_STOCK_08MPD.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_08MPD.JSON","code":4123}}
+2025-06-14 16:05:22,756 - Socketcluster - DEBUG - {"rid":86,"error":{"message":"Can not add Symbol BSE_STOCK_08MPR.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_08MPR.JSON","code":4123}}
+2025-06-14 16:05:22,757 - Socketcluster - DEBUG - {"rid":87,"error":{"message":"Can not add Symbol BSE_STOCK_08QPD.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_08QPD.JSON","code":4123}}
+2025-06-14 16:05:22,757 - Socketcluster - DEBUG - {"rid":88,"error":{"message":"Can not add Symbol BSE_STOCK_08QPR.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_08QPR.JSON","code":4123}}
+2025-06-14 16:05:22,758 - Socketcluster - DEBUG - {"rid":89,"error":{"message":"Can not add Symbol BSE_STOCK_091TB190919.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_091TB190919.JSON","code":4123}}
+2025-06-14 16:05:22,759 - Socketcluster - DEBUG - {"rid":90,"error":{"message":"Can not add Symbol BSE_STOCK_1018GOI26.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_1018GOI26.JSON","code":4123}}
+2025-06-14 16:05:22,759 - Socketcluster - DEBUG - {"rid":91,"error":{"message":"Can not add Symbol BSE_STOCK_1018GS2026.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_1018GS2026.JSON","code":4123}}
+2025-06-14 16:05:22,760 - Socketcluster - DEBUG - {"rid":92,"error":{"message":"Can not add Symbol BSE_STOCK_11ADD.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_11ADD.JSON","code":4123}}
+2025-06-14 16:05:22,761 - Socketcluster - DEBUG - {"rid":93,"error":{"message":"Can not add Symbol BSE_STOCK_11ADR.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_11ADR.JSON","code":4123}}
+2025-06-14 16:05:22,761 - Socketcluster - DEBUG - {"rid":94,"error":{"message":"Can not add Symbol BSE_STOCK_11AGG.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_11AGG.JSON","code":4123}}
+2025-06-14 16:05:22,761 - Socketcluster - DEBUG - {"rid":95,"error":{"message":"Can not add Symbol BSE_STOCK_11AMD.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_11AMD.JSON","code":4123}}
+2025-06-14 16:05:22,763 - Socketcluster - DEBUG - {"rid":96,"error":{"message":"Can not add Symbol BSE_STOCK_11AMR.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_11AMR.JSON","code":4123}}
+2025-06-14 16:05:22,763 - Socketcluster - DEBUG - {"rid":97,"error":{"message":"Can not add Symbol BSE_STOCK_11AQD.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_11AQD.JSON","code":4123}}
+2025-06-14 16:05:22,764 - Socketcluster - DEBUG - {"rid":98,"error":{"message":"Can not add Symbol BSE_STOCK_11AQR.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_11AQR.JSON","code":4123}}
+2025-06-14 16:05:22,765 - Socketcluster - DEBUG - {"rid":99,"error":{"message":"Can not add Symbol BSE_STOCK_11DPD.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_11DPD.JSON","code":4123}}
+2025-06-14 16:05:22,765 - Socketcluster - DEBUG - {"rid":100,"error":{"message":"Can not add Symbol BSE_STOCK_11DPR.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_11DPR.JSON","code":4123}}
+2025-06-14 16:05:22,767 - Socketcluster - DEBUG - {"rid":101,"error":{"message":"Can not add Symbol BSE_STOCK_11GPG.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_11GPG.JSON","code":4123}}
+2025-06-14 16:05:22,767 - Socketcluster - DEBUG - {"rid":102,"error":{"message":"Can not add Symbol BSE_STOCK_11MPD.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_11MPD.JSON","code":4123}}
+2025-06-14 16:05:22,768 - Socketcluster - DEBUG - {"rid":103,"error":{"message":"Can not add Symbol BSE_STOCK_11MPR.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_11MPR.JSON","code":4123}}
+2025-06-14 16:05:22,769 - Socketcluster - DEBUG - {"rid":104,"error":{"message":"Can not add Symbol BSE_STOCK_11QPD.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_11QPD.JSON","code":4123}}
+2025-06-14 16:05:22,769 - Socketcluster - DEBUG - {"rid":105,"error":{"message":"Can not add Symbol BSE_STOCK_11QPR.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_11QPR.JSON","code":4123}}
+2025-06-14 16:05:22,770 - Socketcluster - DEBUG - {"rid":106,"error":{"message":"Can not add Symbol BSE_STOCK_182T041225.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_182T041225.JSON","code":4123}}
+2025-06-14 16:05:22,770 - Socketcluster - DEBUG - {"rid":107,"error":{"message":"Can not add Symbol BSE_STOCK_182T101025.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_182T101025.JSON","code":4123}}
+2025-06-14 16:05:22,770 - Socketcluster - DEBUG - {"rid":108,"error":{"message":"Can not add Symbol BSE_STOCK_182T111225.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_182T111225.JSON","code":4123}}
+2025-06-14 16:05:22,770 - Socketcluster - DEBUG - {"rid":109,"error":{"message":"Can not add Symbol BSE_STOCK_182T131125.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_182T131125.JSON","code":4123}}
+2025-06-14 16:05:22,772 - Socketcluster - DEBUG - {"rid":110,"error":{"message":"Can not add Symbol BSE_STOCK_182T161025.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_182T161025.JSON","code":4123}}
+2025-06-14 16:05:22,772 - Socketcluster - DEBUG - {"rid":111,"error":{"message":"Can not add Symbol BSE_STOCK_182T201125.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_182T201125.JSON","code":4123}}
+2025-06-14 16:05:22,773 - Socketcluster - DEBUG - {"rid":112,"error":{"message":"Can not add Symbol BSE_STOCK_182T231025.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_182T231025.JSON","code":4123}}
+2025-06-14 16:05:22,774 - Socketcluster - DEBUG - {"rid":113,"error":{"message":"Can not add Symbol BSE_STOCK_182T271125.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_182T271125.JSON","code":4123}}
+2025-06-14 16:05:22,774 - Socketcluster - DEBUG - {"rid":114,"error":{"message":"Can not add Symbol BSE_STOCK_182T311025.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_182T311025.JSON","code":4123}}
+2025-06-14 16:05:22,774 - Socketcluster - DEBUG - {"rid":115,"error":{"message":"Can not add Symbol BSE_STOCK_182T611025.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_182T611025.JSON","code":4123}}
+2025-06-14 16:05:22,775 - Socketcluster - DEBUG - {"rid":116,"error":{"message":"Can not add Symbol BSE_STOCK_182TB10725.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_182TB10725.JSON","code":4123}}
+2025-06-14 16:05:22,776 - Socketcluster - DEBUG - {"rid":117,"error":{"message":"Can not add Symbol BSE_STOCK_182TB11925.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_182TB11925.JSON","code":4123}}
+2025-06-14 16:05:22,776 - Socketcluster - DEBUG - {"rid":118,"error":{"message":"Can not add Symbol BSE_STOCK_182TB14825.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_182TB14825.JSON","code":4123}}
+2025-06-14 16:05:22,777 - Socketcluster - DEBUG - {"rid":119,"error":{"message":"Can not add Symbol BSE_STOCK_182TB17725.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_182TB17725.JSON","code":4123}}
+2025-06-14 16:05:22,778 - Socketcluster - DEBUG - {"rid":120,"error":{"message":"Can not add Symbol BSE_STOCK_182TB18925.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_182TB18925.JSON","code":4123}}
+2025-06-14 16:05:22,778 - Socketcluster - DEBUG - {"rid":121,"error":{"message":"Can not add Symbol BSE_STOCK_182TB19625.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_182TB19625.JSON","code":4123}}
+2025-06-14 16:05:22,779 - Socketcluster - DEBUG - {"rid":122,"error":{"message":"Can not add Symbol BSE_STOCK_182TB21025.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_182TB21025.JSON","code":4123}}
+2025-06-14 16:05:22,779 - Socketcluster - DEBUG - {"rid":123,"error":{"message":"Can not add Symbol BSE_STOCK_182TB22825.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_182TB22825.JSON","code":4123}}
+2025-06-14 16:05:22,780 - Socketcluster - DEBUG - {"rid":124,"error":{"message":"Can not add Symbol BSE_STOCK_182TB24725.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_182TB24725.JSON","code":4123}}
+2025-06-14 16:05:22,781 - Socketcluster - DEBUG - {"rid":125,"error":{"message":"Can not add Symbol BSE_STOCK_182TB25925.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_182TB25925.JSON","code":4123}}
+2025-06-14 16:05:22,782 - Socketcluster - DEBUG - {"rid":126,"error":{"message":"Can not add Symbol BSE_STOCK_182TB27625.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_182TB27625.JSON","code":4123}}
+2025-06-14 16:05:22,782 - Socketcluster - DEBUG - {"rid":127,"error":{"message":"Can not add Symbol BSE_STOCK_182TB29825.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_182TB29825.JSON","code":4123}}
+2025-06-14 16:05:22,782 - Socketcluster - DEBUG - {"rid":128,"error":{"message":"Can not add Symbol BSE_STOCK_182TB30725.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_182TB30725.JSON","code":4123}}
+2025-06-14 16:05:22,784 - Socketcluster - DEBUG - {"rid":129,"error":{"message":"Can not add Symbol BSE_STOCK_182TB31725.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_182TB31725.JSON","code":4123}}
+2025-06-14 16:05:22,785 - Socketcluster - DEBUG - {"rid":130,"error":{"message":"Can not add Symbol BSE_STOCK_182TB40925.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_182TB40925.JSON","code":4123}}
+2025-06-14 16:05:22,786 - Socketcluster - DEBUG - {"rid":131,"error":{"message":"Can not add Symbol BSE_STOCK_182TB70825.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_182TB70825.JSON","code":4123}}
+2025-06-14 16:05:22,787 - Socketcluster - DEBUG - {"rid":132,"error":{"message":"Can not add Symbol BSE_STOCK_1STCUS.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_1STCUS.JSON","code":4123}}
+2025-06-14 16:05:22,787 - Socketcluster - DEBUG - {"rid":133,"error":{"message":"Can not add Symbol NSE_STOCK_20MICRONS.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"NSE_STOCK_20MICRONS.JSON","code":4123}}
+2025-06-14 16:05:22,787 - Socketcluster - DEBUG - {"rid":134,"error":{"message":"Can not add Symbol BSE_STOCK_20MICRONS.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_20MICRONS.JSON","code":4123}}
+2025-06-14 16:05:22,789 - Socketcluster - DEBUG - {"rid":135,"error":{"message":"Can not add Symbol NSE_STOCK_21STCENMGM.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"NSE_STOCK_21STCENMGM.JSON","code":4123}}
+2025-06-14 16:05:22,789 - Socketcluster - DEBUG - {"rid":136,"error":{"message":"Can not add Symbol BSE_STOCK_21STCENMGM.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_21STCENMGM.JSON","code":4123}}
+2025-06-14 16:05:22,790 - Socketcluster - DEBUG - {"rid":137,"error":{"message":"Can not add Symbol NSE_STOCK_360ONE.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"NSE_STOCK_360ONE.JSON","code":4123}}
+2025-06-14 16:05:22,791 - Socketcluster - DEBUG - {"rid":138,"error":{"message":"Can not add Symbol BSE_STOCK_360ONE.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_360ONE.JSON","code":4123}}
+2025-06-14 16:05:22,791 - Socketcluster - DEBUG - {"rid":139,"error":{"message":"Can not add Symbol BSE_STOCK_364T020426.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_364T020426.JSON","code":4123}}
+2025-06-14 16:05:22,791 - Socketcluster - DEBUG - {"rid":140,"error":{"message":"Can not add Symbol BSE_STOCK_364TB010126.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_364TB010126.JSON","code":4123}}
+2025-06-14 16:05:22,793 - Socketcluster - DEBUG - {"rid":141,"error":{"message":"Can not add Symbol BSE_STOCK_364TB031025.JSON. \nMaximum allowed symbols limit 70 reached!\nYou cannot add more than 70","name":"Max Symbol Limit Reached","symbol":"BSE_STOCK_364TB031025.JSON","code":4123}}
+2025-06-14 16:05:29,929 - PipelineValidator - INFO - Connected to database successfully
+2025-06-14 16:05:29,929 - PipelineValidator - INFO - Starting pipeline validation
+2025-06-14 16:05:29,951 - PipelineValidator - ERROR - Required hypertable 'trading_signals' is not configured
+2025-06-14 16:05:29,953 - PipelineValidator - ERROR - Error validating retention policies: relation "_timescaledb_config.bgw_policy_drop_chunks" does not exist
+LINE 4:                 JOIN _timescaledb_config.bgw_policy_drop_chu...
+                             ^
+
+2025-06-14 16:05:29,956 - PipelineValidator - INFO - Found 101 instruments in the database
+2025-06-14 16:05:29,966 - PipelineValidator - INFO - Found 39278 1-minute candles and 0 15-second candles
+2025-06-14 16:05:29,972 - PipelineValidator - INFO - Found 22652 technical indicator records
+2025-06-14 16:05:29,973 - PipelineValidator - WARNING - No candle data found, this may be normal in a test environment
+2025-06-14 16:05:29,973 - PipelineValidator - INFO - Data flow validation completed
+2025-06-14 16:05:31,496 - PipelineValidator - INFO - Indicator calculation validation completed
+2025-06-14 16:05:31,499 - PipelineValidator - INFO - Latest 1-minute candle is 1968935.52 minutes old
+2025-06-14 16:05:31,500 - PipelineValidator - WARNING - No 15-second candle data found
+2025-06-14 16:05:31,501 - PipelineValidator - INFO - Latest technical indicator is 1968936.52 minutes old
+2025-06-14 16:05:31,505 - PipelineValidator - INFO - Table candle_data_1min: 0 inserts, 0 updates, 0 deletes
+2025-06-14 16:05:31,506 - PipelineValidator - INFO - Table technical_indicators: 11162 inserts, 0 updates, 0 deletes
+2025-06-14 16:05:31,506 - PipelineValidator - INFO - Table candle_data_15sec: 0 inserts, 0 updates, 0 deletes
+2025-06-14 16:05:31,516 - PipelineValidator - INFO - Latest TimescaleDB chunks:
+2025-06-14 16:05:31,516 - PipelineValidator - INFO -   candle_data_1min: _hyper_1_7_chunk (2021-09-15 17:00:00-07:00 to 2021-09-22 17:00:00-07:00)
+2025-06-14 16:05:31,516 - PipelineValidator - INFO -   candle_data_1min: _hyper_1_6_chunk (2021-09-08 17:00:00-07:00 to 2021-09-15 17:00:00-07:00)
+2025-06-14 16:05:31,516 - PipelineValidator - INFO -   candle_data_1min: _hyper_1_5_chunk (2021-09-01 17:00:00-07:00 to 2021-09-08 17:00:00-07:00)
+2025-06-14 16:05:31,516 - PipelineValidator - INFO -   technical_indicators: _hyper_3_10_chunk (2021-09-15 17:00:00-07:00 to 2021-09-22 17:00:00-07:00)
+2025-06-14 16:05:31,518 - PipelineValidator - INFO -   technical_indicators: _hyper_3_9_chunk (2021-09-08 17:00:00-07:00 to 2021-09-15 17:00:00-07:00)
+2025-06-14 16:05:31,518 - PipelineValidator - INFO -   technical_indicators: _hyper_3_8_chunk (2021-09-01 17:00:00-07:00 to 2021-09-08 17:00:00-07:00)
+2025-06-14 16:05:31,519 - PipelineValidator - INFO - Real-"time" performance validation completed
+2025-06-14 16:05:31,520 - PipelineValidator - INFO - Found 0 15-second candles for the first 2 hours of trading
+2025-06-14 16:05:31,521 - PipelineValidator - INFO - The first_two_hours_data view exists
+2025-06-14 16:05:31,523 - PipelineValidator - INFO - Found 0 technical indicators for the first 2 hours of trading
+2025-06-14 16:05:31,525 - PipelineValidator - INFO - Scalping data validation completed
+2025-06-14 16:05:31,526 - PipelineValidator - INFO - Validation report generated successfully
+2025-06-14 16:05:31,528 - PipelineValidator - ERROR - Pipeline validation FAILED
+2025-06-14 16:05:31,570 - DataPreparation - INFO - Connected to database successfully
+2025-06-14 16:05:31,572 - DataPreparation - INFO - Starting data preparation for ML/LLM applications
+2025-06-14 16:05:31,587 - DataPreparation - INFO - Scalping data preparation completed
+2025-06-14 16:05:32,562 - DataPreparation - INFO - Saved sample scalping data with 39278 rows
+2025-06-14 16:05:32,595 - DataPreparation - INFO - Scalping data preparation completed successfully
+2025-06-14 16:05:32,600 - DataPreparation - INFO - Feature engineering functions created successfully
+2025-06-14 16:05:32,600 - DataPreparation - INFO - Feature engineering functions created successfully
+2025-06-14 16:05:32,610 - DataPreparation - INFO - Using symbol: NIFTY_16800PE-16SEP2021
+2025-06-14 16:05:32,620 - DataPreparation - INFO - Found 2621 indicators and 2621 1min candles for NIFTY_16800PE-16SEP2021
+2025-06-14 16:05:32,789 - DataPreparation - INFO - ML training data prepared successfully with 2598 samples for symbol NIFTY_16800PE-16SEP2021
+2025-06-14 16:05:33,415 - DataPreparation - INFO - ML training data preparation completed successfully
+2025-06-14 16:05:33,420 - DataPreparation - WARNING - No market data available for LLM preparation
+2025-06-14 16:05:33,421 - DataPreparation - INFO - LLM data preparation completed successfully
+2025-06-14 16:05:33,421 - DataPreparation - INFO - Scalping signal generator script created successfully
+2025-06-14 16:05:33,421 - DataPreparation - INFO - Scalping signal generator created successfully
+2025-06-14 16:05:33,421 - DataPreparation - INFO - Data preparation completed
